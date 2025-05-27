@@ -30,8 +30,7 @@ chmod +x backup.sh
 
 ## 📸 Screenshot
 
-![Product Cover](https://your-image-link.png)  
-*(Replace this with your actual image URL or upload the image to the repo)*
+![Product Cover](https://github.com/InfoSec01/simple-linux-backup-script/blob/main/Linux.png)  
 
 ---
 
