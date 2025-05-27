@@ -38,7 +38,7 @@ chmod +x backup.sh
 
 Get the **ZIP file with setup help, bonus usage tips, and ongoing updates** on Gumroad:
 
-👉 [Download on Gumroad](https://infosec01.gumroad.com/l/dvkvan)
+👉 [![Buy on Gumroad](https://img.shields.io/badge/Buy%20on-Gumroad-orange?logo=gumroad)](https://infosec01.gumroad.com/l/dvkvan)
 
 ---
 
